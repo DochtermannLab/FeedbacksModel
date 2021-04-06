@@ -1,0 +1,104 @@
+study,organism,Phylum,Class,between,residual,pheno
+1,field cricket (Gryllus campestris),Arthropoda,Insecta,0.05,-0.09,-0.05
+1,field cricket (Gryllus campestris),Arthropoda,Insecta,-0.02,-0.04,-0.03
+1,field cricket (Gryllus campestris),Arthropoda,Insecta,-0.34,0.00,-0.10
+2,Carpetan Rock Lizards (Iberolacerta cyreni),Chordata,Reptilia,-0.15,0.01,-0.05
+3,agile frog (Rana dalmatina),Chordata,Amphibia,-0.21,-0.06,-0.25
+3,agile frog (Rana dalmatina),Chordata,Amphibia,-0.60,-0.29,-0.62
+4,House cricket (Acheta domesticus),Arthropoda,Insecta,0.56,0.75,0.69
+5,Atlantic mollies (Poecilia mexicana),Chordata,Actinopterygii,-0.68,-0.12,-0.43
+5,Atlantic mollies (Poecilia mexicana),Chordata,Actinopterygii,-0.49,0.14,-0.12
+6,banded mongoose (Mungos mungo),Chordata,Mammalia,-0.260052016,-0.04,-0.06
+6,banded mongoose (Mungos mungo),Chordata,Mammalia,0.115470054,-0.02,0.00
+6,banded mongoose (Mungos mungo),Chordata,Mammalia,0.396141521,0.20,0.23
+7,field cricket (Gryllus campestris),Arthropoda,Insecta,-0.15,-0.05,-0.08
+7,field cricket (Gryllus campestris),Arthropoda,Insecta,0.18,-0.29,-0.25
+7,field cricket (Gryllus campestris),Arthropoda,Insecta,0.06,0.50,0.40
+8,field cricket (Gryllus campestris),Arthropoda,Insecta,-0.61,-0.07,-0.20
+8,field cricket (Gryllus campestris),Arthropoda,Insecta,0.09,0.01,0.03
+8,field cricket (Gryllus campestris),Arthropoda,Insecta,-0.36,-0.22,-0.31
+9,eastern chipmunks (Tamias striatus),Chordata,Mammalia,-0.48,0.00,-0.13
+10,burbot (Lota lota),Chordata,Actinopterygii,0.98,0.85,0.47
+10,burbot (Lota lota),Chordata,Actinopterygii,0.25,0.14,0.12
+10,burbot (Lota lota),Chordata,Actinopterygii,0.97,0.51,0.36
+10,burbot (Lota lota),Chordata,Actinopterygii,0.86,0.51,0.30
+10,burbot (Lota lota),Chordata,Actinopterygii,0.7,0.24,0.20
+10,burbot (Lota lota),Chordata,Actinopterygii,0.89,0.41,0.37
+10,burbot (Lota lota),Chordata,Actinopterygii,0.53,0.51,0.26
+10,burbot (Lota lota),Chordata,Actinopterygii,0.53,0.22,0.19
+10,burbot (Lota lota),Chordata,Actinopterygii,-0.39,0.10,-0.17
+10,burbot (Lota lota),Chordata,Actinopterygii,0.26,0.54,0.18
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.986,0.98,0.98
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.975,0.91,0.93
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.838,0.63,0.68
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.959,0.94,0.95
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.957,0.90,0.91
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.902,0.66,0.68
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.992,0.96,0.97
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.855,0.80,0.80
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.931,0.88,0.89
+11,Sheepshead swordtail (Xiphophorus birchmanni),Chordata,Actinopterygii,0.927,0.67,0.70
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,0.09,0.11,0.11
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,0.006,-0.13,-0.11
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,0.11,0.11,0.11
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,0.08,0.03,0.05
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,-0.07,-0.06,-0.07
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,0.06,0.05,0.05
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,0.07,-0.09,-0.04
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,-0.01,-0.15,-0.10
+12,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,0.01,-0.10,-0.06
+13,Belding's Ground Squirrels (Urocitellus beldingi),Chordata,Mammalia,-0.545,0.13,-0.06
+13,Belding's Ground Squirrels (Urocitellus beldingi),Chordata,Mammalia,0.694,0.59,0.57
+13,Belding's Ground Squirrels (Urocitellus beldingi),Chordata,Mammalia,-0.639,0.14,-0.20
+14,European eel (Anguilla anguilla),Chordata,Actinopterygii,0.72,-0.06,0.28
+15,curly tailed lizard (Leiocephalus carinatus),Chordata,Reptilia,0.269,-0.09,0.08
+15,curly tailed lizard (Leiocephalus carinatus),Chordata,Reptilia,0.171,-0.05,0.04
+16,salamander Desmognathus brimleyorum ,Chordata,Amphibia,0.25,0.00,0.10
+17,blue tit (Cyanistes caeruleus),Chordata,Aves,-0.33,0.09,-0.08
+17,blue tit (Cyanistes caeruleus),Chordata,Aves,0.17,-0.07,0.03
+18,lesser wax moth (Achroia grisella) males,Arthropoda,Insecta,-0.49,-0.12,-0.29
+18,lesser wax moth (Achroia grisella) males,Arthropoda,Insecta,-0.11,-0.05,-0.08
+19,blue tit (Cyanistes caeruleus),Chordata,Aves,-0.130169319,0.18,0.06
+20,blue tit (Cyanistes caeruleus),Chordata,Aves,-0.0039,-0.04,-0.03
+20,blue tit (Cyanistes caeruleus),Chordata,Aves,-0.26,0.19,0.05
+21,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,-0.344265186,-0.32,-0.33
+22,Great tit (Parus major),Chordata,Aves,0.51,0.40,0.43
+22,Great tit (Parus major),Chordata,Aves,0.54,0.38,0.42
+22,Great tit (Parus major),Chordata,Aves,-0.59,-0.65,-0.64
+22,Great tit (Parus major),Chordata,Aves,0.83,0.87,0.85
+22,Great tit (Parus major),Chordata,Aves,-0.29,-0.31,-0.30
+22,Great tit (Parus major),Chordata,Aves,-0.27,-0.32,-0.30
+23,Alpine marmot (Marmota marmota),Chordata,Mammalia,0.12,0.05,0.08
+23,Alpine marmot (Marmota marmota),Chordata,Mammalia,-0.57,-0.32,-0.36
+24,superb fairy-wren (Malurus cyaneus),Chordata,Aves,0.6,-0.23,-0.09
+24,superb fairy-wren (Malurus cyaneus),Chordata,Aves,0.88,0.83,0.79
+24,superb fairy-wren (Malurus cyaneus),Chordata,Aves,0.73,0.55,0.55
+25,Australian social skink (Egernia whitii),Chordata,Reptilia,-0.05,0.03,-0.02
+25,Australian social skink (Egernia whitii),Chordata,Reptilia,0.01,0.01,0.01
+25,Australian social skink (Egernia whitii),Chordata,Reptilia,0.01,-0.01,0.00
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.7,0.54,0.62
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.74,0.72,0.73
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.22,-0.08,0.08
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.13,-0.05,0.02
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.08,-0.23,-0.06
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.06,-0.08,-0.04
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.49,0.40,0.44
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.15,-0.19,-0.01
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.06,-0.15,-0.07
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.09,-0.27,-0.07
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,-0.1,-0.18,-0.14
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.04,-0.10,-0.03
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.23,-0.12,0.00
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.12,-0.20,-0.03
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.02,-0.08,-0.05
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.26,0.26,0.25
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.51,0.43,0.47
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.47,0.32,0.33
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.17,-0.07,0.02
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.23,0.07,0.10
+26,jumping spider (Eris militaris),Arthropoda,Arachnida,0.31,0.19,0.20
+27,threespined sticklebacks (Gasterosteaus aculeatus),Chordata,Actinopterygii,-0.2,0.23,0.19
+28,field cricket (Gryllus campestris),Arthropoda,Insecta,0.39,-0.02,0.08
+28,field cricket (Gryllus campestris),Arthropoda,Insecta,0.39,0.03,0.13
+28,field cricket (Gryllus campestris),Arthropoda,Insecta,0.81,0.17,0.40
+29,Yellow-bellied marmots (Marmota flaviventris),Chordata,Mammalia,-0.57,0.00,-0.09
